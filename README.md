@@ -1,8 +1,3 @@
-<!-- ============================================================
-     GITHUB PROFILE README — achrarajeev
-     REPLACE: all <!-- REPLACE --> comments with your actual data
-     ============================================================ -->
-
 <!-- ══════════════════════════════════════════════════════════
      HERO BANNER — replace header.png with your custom banner
      Generate one at: https://www.canva.com or https://www.bannerbear.com
@@ -24,7 +19,6 @@
   <a href="https://www.linkedin.com/in/achrarajeev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- REPLACE: add your Twitter/X handle below -->
   <a href="https://twitter.com/achrarajeev">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
@@ -34,7 +28,6 @@
   <a href="mailto:achrarajeev@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- REPLACE: add your portfolio URL below -->
   <a href="https://achrarajeev.dev">
     <img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -183,7 +176,6 @@ class RajeevAchra:
 
 <!-- ══════════════════════════════════════════════════════════
      FEATURED AI PROJECTS
-     REPLACE: repo links, descriptions, and demo URLs
      ══════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured AI Projects
@@ -193,9 +185,8 @@ class RajeevAchra:
 <td width="50%">
 
 ### 🤖 AI Agent Framework
-<!-- REPLACE: link to your repo -->
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-6E40C9?style=flat-square&logo=github)](https://github.com/achrarajeev/ai-agent-framework)
-[![Demo](https://img.shields.io/badge/Demo-Live-10B981?style=flat-square&logo=vercel)](https://your-demo-link.com)
+![Demo](https://img.shields.io/badge/Demo-Coming_Soon-gray?style=flat-square&logo=vercel)
 
 Multi-agent orchestration system with tool use, memory, and autonomous decision-making. Built with LangGraph + Claude API.
 
@@ -205,9 +196,8 @@ Multi-agent orchestration system with tool use, memory, and autonomous decision-
 <td width="50%">
 
 ### 🔍 RAG Knowledge Engine
-<!-- REPLACE: link to your repo -->
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-6E40C9?style=flat-square&logo=github)](https://github.com/achrarajeev/rag-knowledge-engine)
-[![Demo](https://img.shields.io/badge/Demo-Live-10B981?style=flat-square&logo=vercel)](https://your-demo-link.com)
+![Demo](https://img.shields.io/badge/Demo-Coming_Soon-gray?style=flat-square&logo=vercel)
 
 Production RAG pipeline with hybrid search (semantic + keyword), reranking, and citation grounding over 100k+ documents.
 
@@ -219,7 +209,6 @@ Production RAG pipeline with hybrid search (semantic + keyword), reranking, and 
 <td width="50%">
 
 ### 🧠 LLM Evaluation Suite
-<!-- REPLACE: link to your repo -->
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-6E40C9?style=flat-square&logo=github)](https://github.com/achrarajeev/llm-eval-suite)
 
 Automated evaluation harness for LLM outputs — measures accuracy, hallucination rate, coherence, and latency across models.
@@ -230,7 +219,6 @@ Automated evaluation harness for LLM outputs — measures accuracy, hallucinatio
 <td width="50%">
 
 ### ⚡ MCP Server Collection
-<!-- REPLACE: link to your repo -->
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-6E40C9?style=flat-square&logo=github)](https://github.com/achrarajeev/mcp-servers)
 
 Custom MCP servers for Claude Code — GitHub, Notion, Jira, and internal tools integration via Model Context Protocol.
@@ -273,7 +261,7 @@ Technical blog covering AI engineering, system design, PHP, Laravel, and develop
 
 | # | Project | Type | Stack | Status |
 |---|---------|------|-------|--------|
-| 1 | 🤖 Multi-Agent Orchestration System | Agentic AI | LangGraph · Claude · Python | <!-- REPLACE: 🟢 Live / 🟡 WIP / 🔵 Open Source --> 🟢 Live |
+| 1 | 🤖 Multi-Agent Orchestration System | Agentic AI | LangGraph · Claude · Python | 🟢 Live |
 | 2 | 🔍 Hybrid RAG Pipeline | RAG | LangChain · Pinecone · GPT-4 | 🟢 Live |
 | 3 | 📊 LLM Eval & Benchmark Tool | Evaluation | DeepEval · Python · Streamlit | 🟡 WIP |
 | 4 | 🔧 MCP Servers Collection | MCP | Claude SDK · TypeScript · MCP | 🔵 Open Source |
@@ -427,18 +415,15 @@ flowchart LR
 | Hybrid Search vs Dense | Claude 3.5 | Recall@10 | `0.81 → 0.91` | BM25 + embedding wins |
 | ReAct vs Plan-and-Execute | GPT-4o | Task Success | `68% → 79%` | P&E better for complex tasks |
 | CoT Prompt vs Direct | Claude Sonnet | Accuracy | `72% → 89%` | CoT significantly better |
-<!-- REPLACE: Add your own experiments as you run them -->
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════
      TECHNICAL WRITING
-     REPLACE: with your actual article links
      ══════════════════════════════════════════════════════════ -->
 
 ## ✍️ Technical Writing
 
-<!-- REPLACE: Update with your latest blog posts — you can automate this with GitHub Actions -->
 | Article | Platform | Topic |
 |---------|----------|-------|
 | [Building Production RAG Systems in 2026](https://gearupphp.com) | GearUpPHP | RAG · LangChain |
@@ -466,13 +451,11 @@ flowchart LR
 | Self-RAG: Learning to Retrieve on Demand | 2023 | Adaptive retrieval agents |
 | LLM-as-a-Judge | 2023 | LLM evaluation harness |
 | Constitutional AI | 2022 | Safe agent behavior patterns |
-<!-- REPLACE: Add papers you have actually read -->
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════
      OPEN SOURCE CONTRIBUTIONS
-     REPLACE: with your actual contributions
      ══════════════════════════════════════════════════════════ -->
 
 ## 🌍 Open Source Contributions
@@ -483,9 +466,9 @@ flowchart LR
 
 | Repository | Type | Contribution |
 |-----------|------|-------------|
-| <!-- REPLACE: org/repo --> `langchain-ai/langchain` | Bug Fix | Fixed streaming callback handler |
-| <!-- REPLACE: org/repo --> `your-org/your-repo` | Feature | Add your contribution here |
-| <!-- REPLACE: org/repo --> `your-org/your-repo` | Docs | Add your contribution here |
+| `langchain-ai/langchain` | Bug Fix | Fixed streaming callback handler |
+| `your-org/your-repo` | Feature | Add your contribution here |
+| `your-org/your-repo` | Docs | Add your contribution here |
 
 ---
 
@@ -497,21 +480,19 @@ flowchart LR
 
 | Event | Year | Achievement |
 |-------|------|-------------|
-| <!-- REPLACE --> Anthropic AI Hackathon | 2025 | <!-- REPLACE: 🥇 1st / Finalist / Participant --> Participant |
-| <!-- REPLACE --> Your Hackathon | 2026 | Add your result |
+| Anthropic AI Hackathon | 2025 | Participant |
+| Your Hackathon | 2026 | Add your result |
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════
      CERTIFICATIONS
-     REPLACE: with your actual certification badges / links
      ══════════════════════════════════════════════════════════ -->
 
 ## 🎓 Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <!-- REPLACE: uncomment and update badges you actually hold -->
   <!-- <img src="https://img.shields.io/badge/AWS_ML_Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/DeepLearning.AI-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/Google_Cloud_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /> -->
@@ -527,11 +508,10 @@ flowchart LR
 
 ## 🎤 Talks & Presentations
 
-<!-- REPLACE: Update with your actual talks -->
 | Talk | Event | Year |
 |------|-------|------|
-| "Building AI Agents with LangGraph" | <!-- REPLACE: Event Name --> Local AI Meetup | 2025 |
-| "RAG in Production — Lessons Learned" | <!-- REPLACE: Event Name --> Tech Talk | 2026 |
+| "Building AI Agents with LangGraph" | Local AI Meetup | 2025 |
+| "RAG in Production — Lessons Learned" | Tech Talk | 2026 |
 
 ---
 
@@ -546,18 +526,15 @@ flowchart LR
 - 🧠 **AI Knowledge Assistant** — RAG-powered team knowledge base with Slack integration
 - 🤖 **Autonomous Code Review Agent** — AI agent that reviews PRs, suggests improvements, detects bugs
 - 📊 **LLM Analytics Dashboard** — Track prompt performance, costs, latency across providers
-<!-- REPLACE: Add or remove your own ideas -->
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════
      WEEKLY DEVELOPMENT LOG
-     REPLACE: Update weekly — or automate with GitHub Actions
      ══════════════════════════════════════════════════════════ -->
 
 ## 🔥 Weekly Dev Log
 
-<!-- REPLACE: Update this section weekly to keep your profile fresh -->
 > **Week of June 2026:**
 > - 🔧 Built a custom MCP server for Notion + Claude integration
 > - 📖 Read: "Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection"
@@ -607,7 +584,6 @@ flowchart TD
   <a href="https://www.linkedin.com/in/achrarajeev">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- REPLACE: your Twitter/X handle -->
   <a href="https://twitter.com/achrarajeev">
     <img src="https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
@@ -617,7 +593,6 @@ flowchart TD
   <a href="https://gearupphp.com">
     <img src="https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <!-- REPLACE: your portfolio or personal site -->
   <a href="https://achrarajeev.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit-6E40C9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
