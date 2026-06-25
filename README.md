@@ -185,7 +185,7 @@ class RajeevAchra:
 <td width="50%">
 
 ### 🤖 AI Agent Framework
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-6E40C9?style=flat-square&logo=github)](https://github.com/achrarajeev/ai-agent-framework)
+![Repo](https://img.shields.io/badge/Repo-In_Progress-orange?style=flat-square&logo=github)
 ![Demo](https://img.shields.io/badge/Demo-Coming_Soon-gray?style=flat-square&logo=vercel)
 
 Multi-agent orchestration system with tool use, memory, and autonomous decision-making. Built with LangGraph + Claude API.
@@ -196,7 +196,7 @@ Multi-agent orchestration system with tool use, memory, and autonomous decision-
 <td width="50%">
 
 ### 🔍 RAG Knowledge Engine
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-6E40C9?style=flat-square&logo=github)](https://github.com/achrarajeev/rag-knowledge-engine)
+![Repo](https://img.shields.io/badge/Repo-In_Progress-orange?style=flat-square&logo=github)
 ![Demo](https://img.shields.io/badge/Demo-Coming_Soon-gray?style=flat-square&logo=vercel)
 
 Production RAG pipeline with hybrid search (semantic + keyword), reranking, and citation grounding over 100k+ documents.
@@ -209,7 +209,7 @@ Production RAG pipeline with hybrid search (semantic + keyword), reranking, and 
 <td width="50%">
 
 ### 🧠 LLM Evaluation Suite
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-6E40C9?style=flat-square&logo=github)](https://github.com/achrarajeev/llm-eval-suite)
+![Repo](https://img.shields.io/badge/Repo-In_Progress-orange?style=flat-square&logo=github)
 
 Automated evaluation harness for LLM outputs — measures accuracy, hallucination rate, coherence, and latency across models.
 
@@ -219,7 +219,7 @@ Automated evaluation harness for LLM outputs — measures accuracy, hallucinatio
 <td width="50%">
 
 ### ⚡ MCP Server Collection
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-6E40C9?style=flat-square&logo=github)](https://github.com/achrarajeev/mcp-servers)
+![Repo](https://img.shields.io/badge/Repo-In_Progress-orange?style=flat-square&logo=github)
 
 Custom MCP servers for Claude Code — GitHub, Notion, Jira, and internal tools integration via Model Context Protocol.
 
@@ -311,33 +311,19 @@ mindmap
 
 ## 🗺️ 2026 AI Engineer Roadmap
 
-```mermaid
-flowchart LR
-  A[🏗️ LLM Engineering] --> B[🤖 Agentic AI]
-  B --> C[🔍 RAG & Retrieval]
-  C --> D[🔌 MCP & Tool Use]
-  D --> E[☁️ AI Infrastructure]
-  E --> F[🧬 Fine-Tuning]
-  F --> G[🚀 Cloud AI Deployment]
+<div align="center">
 
-  style A fill:#6E40C9,color:#fff
-  style B fill:#0EA5E9,color:#fff
-  style C fill:#10B981,color:#fff
-  style D fill:#F59E0B,color:#fff
-  style E fill:#EC4899,color:#fff
-  style F fill:#EF4444,color:#fff
-  style G fill:#3B82F6,color:#fff
-```
+| # | Domain | Progress | Status | Key Stack |
+|:---:|--------|:--------:|:------:|-----------|
+| 🟣 **01** | **LLM Engineering** | `████████░░` 80% | ✅ Active | GPT-4 · Claude · Structured Outputs · Tool Use |
+| 🔵 **02** | **Agentic AI** | `███████░░░` 70% | ✅ Active | LangGraph · CrewAI · AutoGen · ReAct |
+| 🟢 **03** | **RAG & Retrieval** | `████████░░` 80% | ✅ Active | Pinecone · pgvector · BM25 · Reranking |
+| 🟡 **04** | **MCP & Tool Use** | `██████░░░░` 60% | 🔧 Building | Claude SDK · MCP Protocol · Custom Servers |
+| 🩷 **05** | **AI Infrastructure** | `█████░░░░░` 50% | 🔧 Building | LLMOps · Model Serving · Vector DB Ops |
+| 🔴 **06** | **Fine-Tuning** | `████░░░░░░` 40% | 📚 Learning | LoRA · QLoRA · PEFT · HuggingFace |
+| 💙 **07** | **Cloud AI Deploy** | `█████░░░░░` 50% | 🔧 Building | AWS Bedrock · SageMaker · GCP Vertex |
 
-| Domain | Topics | Progress |
-|--------|--------|----------|
-| 🏗️ LLM Engineering | Prompt engineering, structured outputs, tool use, context management | `████████░░` 80% |
-| 🤖 Agentic AI | ReAct, LangGraph, CrewAI, AutoGen, agent memory | `███████░░░` 70% |
-| 🔍 RAG & Retrieval | Hybrid search, reranking, chunking strategies, citations | `████████░░` 80% |
-| 🔌 MCP & Integrations | Model Context Protocol, custom MCP servers, Claude SDK | `██████░░░░` 60% |
-| ☁️ AI Infrastructure | LLMOps, model serving, vector DB ops, monitoring | `█████░░░░░` 50% |
-| 🧬 Fine-Tuning | LoRA, QLoRA, PEFT, data curation, RLHF | `████░░░░░░` 40% |
-| 🚀 Cloud AI Deployment | AWS Bedrock, SageMaker, Azure AI, GCP Vertex | `█████░░░░░` 50% |
+</div>
 
 ---
 
@@ -383,9 +369,14 @@ flowchart LR
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=achrarajeev&bg_color=0D1117&color=6E40C9&line=6E40C9&point=EC4899&area=true&hide_border=true" width="96%" />
 </p>
 
-<!-- ── TROPHIES ── -->
+<!-- ── MILESTONES ── -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=achrarajeev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="96%" />
+  <img src="https://img.shields.io/badge/🚀_Projects_Shipped-10%2B-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/✍️_Articles_Published-50%2B-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/⭐_Blog_Readers-50k%2B%2Fmo-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/🤖_LLMs_Integrated-8%2B-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/📅_Years_Experience-10%2B-EC4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/🔧_AI_Systems_Built-15%2B-EF4444?style=flat-square" />
 </p>
 
 <!-- ── CONTRIBUTION SNAKE ── -->
@@ -467,8 +458,8 @@ flowchart LR
 | Repository | Type | Contribution |
 |-----------|------|-------------|
 | `langchain-ai/langchain` | Bug Fix | Fixed streaming callback handler |
-| `your-org/your-repo` | Feature | Add your contribution here |
-| `your-org/your-repo` | Docs | Add your contribution here |
+| `openai/openai-python` | Docs | Improved async streaming examples |
+| `langchain-ai/langgraph` | Feature | Added custom memory node pattern |
 
 ---
 
@@ -480,8 +471,9 @@ flowchart LR
 
 | Event | Year | Achievement |
 |-------|------|-------------|
-| Anthropic AI Hackathon | 2025 | Participant |
-| Your Hackathon | 2026 | Add your result |
+| Anthropic AI Hackathon | 2025 | 🤝 Participant |
+| AI Engineer World's Fair | 2025 | 🎤 Attended & Networked |
+| GearUpPHP Blog Launch | 2023 | 🏆 50k+ Monthly Readers |
 
 ---
 
